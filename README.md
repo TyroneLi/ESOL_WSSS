@@ -7,4 +7,7 @@ Generating precise class-aware pseudo ground-truths, a.k.a, class activation map
 
 The implementation of “Expansion and Shrinkage of Localization for Weakly-Supervised Semantic Segmentation” (ESOL_WSSS), Jinlong Li, Zequn Jie, Xu Wang, Xiaolin Wei, Lin Ma.
 
-Code will be made publicly available soon.
+# Code Release
+:fire: Code will be made publicly available soon.
+
+:fire: Code now is cleaning. Stay tune.
